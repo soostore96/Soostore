@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#5856D6"/>
+  <circle cx="32" cy="32" r="14" fill="#fff"/>
+  <circle cx="32" cy="32" r="6" fill="#B2A4FF"/>
+  <g>
+    <rect x="30" y="15" width="4" height="8" rx="2" fill="#5856D6"/>
+    <rect x="30" y="41" width="4" height="8" rx="2" fill="#5856D6"/>
+    <rect x="41" y="30" width="8" height="4" rx="2" fill="#5856D6"/>
+    <rect x="15" y="30" width="8" height="4" rx="2" fill="#5856D6"/>
+    <rect x="21.22" y="21.22" width="4" height="8" rx="2" transform="rotate(-45 21.22 21.22)" fill="#5856D6"/>
+    <rect x="38.78" y="38.78" width="4" height="8" rx="2" transform="rotate(-45 38.78 38.78)" fill="#5856D6"/>
+    <rect x="38.78" y="15.22" width="4" height="8" rx="2" transform="rotate(45 38.78 15.22)" fill="#5856D6"/>
+    <rect x="21.22" y="32.78" width="4" height="8" rx="2" transform="rotate(45 21.22 32.78)" fill="#5856D6"/>
+  </g>
+</svg>
